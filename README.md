@@ -1,7 +1,7 @@
 # chat_bot_frontend
 
 
-How to run through bash in linux machine:-
+**How to run through bash in linux machine:-**
 
 step1:-
 Make the script executable using the chmod command:
@@ -12,14 +12,14 @@ un the script in your terminal to execute both steps by the following commands:
 
 ./build_and_run.sh
 
-How to run through bash in windows machine:-
+**How to run through bash in windows machine:-**
 
 step1:- run the command
 build_and_run.bat
 
 
 
-How to run (Through git hub ):-
+**How to run (Through git hub ):-**
 
 
 step1:- clone the chat_bot_frontend repository on your local machine.
@@ -34,7 +34,7 @@ step4:- docker run -d -p 8501:8501 --name frontend-container frontend
 
 
 
-**HOW to acces the site:-
+**HOW to access the site**:-
 
 - open a browser
 - search localhost:8501
