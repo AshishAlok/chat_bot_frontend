@@ -36,4 +36,4 @@ The below command will run the docker image of the backend in a container whose 
 
 - open a browser
 - search localhost:8501
-- you will be directed to the frontend
+- you will be directed to the web app
